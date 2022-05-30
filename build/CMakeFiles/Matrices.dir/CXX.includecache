@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/sonor/Desktop/SummerProjects/multi-threading-matrices-cplusplus/main.cpp
+matrix.hpp
+/mnt/c/Users/sonor/Desktop/SummerProjects/multi-threading-matrices-cplusplus/matrix.hpp
+iostream
+-
+
+/mnt/c/Users/sonor/Desktop/SummerProjects/multi-threading-matrices-cplusplus/matrix.cpp
+matrix.hpp
+/mnt/c/Users/sonor/Desktop/SummerProjects/multi-threading-matrices-cplusplus/matrix.hpp
+
+/mnt/c/Users/sonor/Desktop/SummerProjects/multi-threading-matrices-cplusplus/matrix.hpp
+vector
+-
+ostream
+-
+

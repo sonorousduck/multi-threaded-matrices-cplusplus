@@ -1,0 +1,4 @@
+/mnt/c/Users/sonor/Desktop/SummerProjects/multi-threading-matrices-cplusplus/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/sonor/Desktop/SummerProjects/multi-threading-matrices-cplusplus/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/sonor/Desktop/SummerProjects/multi-threading-matrices-cplusplus/build/CMakeFiles/ClangFormat.dir
+/mnt/c/Users/sonor/Desktop/SummerProjects/multi-threading-matrices-cplusplus/build/CMakeFiles/Matrices.dir
